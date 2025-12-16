@@ -16,9 +16,8 @@
         <span class="text-blue-600">лишнего шума</span>
       </h1>
 
-      <p class="text-xl max-w-2xl mx-auto mb-10 leading-relaxed font-light">
-        Мы убрали всё лишнее, оставив только то, что приносит деньги. Учет, склад и AI-аналитика в кристально чистом
-        интерфейсе.
+      <p class="text-xl max-w-2xl mx-auto mb-10 leading-relaxed font-light bg-white/70 backdrop-blur-md rounded-xl px-6 py-4 border border-slate-100">
+        Мы убрали всё лишнее, оставив только то, что приносит деньги. Учет, склад, заказы и AI-аналитика.
       </p>
 
       <div class="flex flex-col sm:flex-row justify-center gap-4">
@@ -56,7 +55,7 @@
           <div class="text-sm text-slate-500">На запуск</div>
         </div>
         <div>
-          <div class="text-3xl font-bold text-slate-900">0 ₽</div>
+          <div class="text-3xl font-bold text-slate-900">0 $</div>
           <div class="text-sm text-slate-500">На старте</div>
         </div>
         <div>
