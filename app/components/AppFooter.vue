@@ -12,10 +12,10 @@
       </div>
 
       <div class="flex flex-col md:flex-row justify-between items-center pt-8 border-t border-slate-50 text-xs text-slate-400">
-        <p>&copy; 2024 SaltaCRM Inc. Сделано с любовью к порядку.</p>
+        <p>&copy; {{ new Date().getFullYear() }} SaltaCRM Inc. Сделано с любовью к порядку.</p>
         <div class="flex gap-4 mt-4 md:mt-0">
-          <NuxtLink to="/#about" class="hover:text-slate-600">Политика конфиденциальности</NuxtLink>
-          <NuxtLink to="/#about" class="hover:text-slate-600">Условия использования</NuxtLink>
+          <NuxtLink to="/privacy-policy" class="hover:text-slate-600">Политика конфиденциальности</NuxtLink>
+          <NuxtLink to="/terms-of-use" class="hover:text-slate-600">Условия использования</NuxtLink>
         </div>
       </div>
     </div>
