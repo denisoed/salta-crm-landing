@@ -8,7 +8,6 @@
       <div class="hidden md:flex gap-8 text-sm font-semibold text-slate-500">
         <NuxtLink to="/#about" class="hover:text-blue-600 transition-colors">О продукте</NuxtLink>
         <NuxtLink to="/#solutions" class="hover:text-blue-600 transition-colors">Решения</NuxtLink>
-        <NuxtLink to="/#ai" class="hover:text-blue-600 transition-colors">Технологии</NuxtLink>
       </div>
 
       <div class="flex gap-4">
