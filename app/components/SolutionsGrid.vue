@@ -6,7 +6,7 @@
         <p class="text-slate-500">Инструменты, которые превращают рутину в систему.</p>
       </div>
 
-      <div class="grid md:grid-cols-3 gap-8">
+      <div class="grid md:grid-cols-2 gap-8">
         <div class="soft-card p-8 rounded-2xl bg-white">
           <div class="w-12 h-12 bg-blue-100 rounded-xl flex items-center justify-center text-blue-600 mb-6">
             <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -18,9 +18,9 @@
               />
             </svg>
           </div>
-          <h3 class="text-xl font-bold mb-2 text-slate-900">Умный Склад</h3>
+          <h3 class="text-xl font-bold mb-2 text-slate-900">Склад товаров</h3>
           <p class="text-slate-500 text-sm leading-relaxed">
-            Система сама подскажет, когда товар заканчивается. Удобная навигация по папкам, как на Mac.
+            Учет остатков, приход/расход и быстрый поиск — чтобы всегда знать, что есть на складе и что нужно докупить.
           </p>
         </div>
 
@@ -35,9 +35,9 @@
               />
             </svg>
           </div>
-          <h3 class="text-xl font-bold mb-2 text-slate-900">AI Копирайтер</h3>
+          <h3 class="text-xl font-bold mb-2 text-slate-900">Управление заказами</h3>
           <p class="text-slate-500 text-sm leading-relaxed">
-            Встроенный Gemini AI напишет описание товара за вас. Просто введите название, и магия случится.
+            Полный цикл: от нового заказа до доставки. Статусы, ответственные и история действий — ничего не теряется.
           </p>
         </div>
 
@@ -52,9 +52,26 @@
               />
             </svg>
           </div>
-          <h3 class="text-xl font-bold mb-2 text-slate-900">Финансы под контролем</h3>
+          <h3 class="text-xl font-bold mb-2 text-slate-900">Аналитика</h3>
           <p class="text-slate-500 text-sm leading-relaxed">
-            Считаем маржу и чистую прибыль автоматически. Вы наконец узнаете, сколько реально зарабатываете.
+            Понятные отчеты по продажам, товарам и каналам. Видно, что растет, что проседает и куда вкладываться дальше.
+          </p>
+        </div>
+
+        <div class="soft-card p-8 rounded-2xl bg-white">
+          <div class="w-12 h-12 bg-amber-100 rounded-xl flex items-center justify-center text-amber-600 mb-6">
+            <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2"
+                d="M8 10h.01M12 10h.01M16 10h.01M9 16h6M21 12c0 4.418-4.03 8-9 8a9.77 9.77 0 01-4-.8L3 20l1.2-3.6A7.9 7.9 0 013 12c0-4.418 4.03-8 9-8s9 3.582 9 8z"
+              />
+            </svg>
+          </div>
+          <h3 class="text-xl font-bold mb-2 text-slate-900">Интеграции с WhatsApp, Instagram и Telegram</h3>
+          <p class="text-slate-500 text-sm leading-relaxed">
+            Сообщения и заявки из мессенджеров в одном месте — быстрее отвечаете, не теряете клиентов и контролируете диалоги.
           </p>
         </div>
       </div>

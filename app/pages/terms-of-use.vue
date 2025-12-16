@@ -85,7 +85,7 @@
           <h2 class="text-2xl font-semibold text-slate-900">9. Контакты</h2>
           <p>
             По вопросам использования Сервиса и условий напишите нам на:
-            <span class="font-semibold text-slate-900">support@saltacrm.com</span> (замените на актуальный адрес).
+            <span class="font-semibold text-slate-900">support@saltacrm.com</span>.
           </p>
         </section>
       </div>
